@@ -1,0 +1,123 @@
+.body
+{
+	background-color: #f2aa7e;
+
+}
+*
+{
+	font-family: 'Lobster', cursive;
+}
+#about
+{
+	background-color: #b98b82;
+}
+#about p
+{
+	
+	font-family: 'Lobster', cursive;
+	font-size: 130%;
+	animation: 3s slide-up;
+}
+
+
+#skills ul
+{
+	font-family: 'Lobster', cursive;
+	font-size: 130%;
+	overflow: hidden;
+	white-space: nowrap;
+	animation: slide-left 3s ease-in;
+}
+
+
+#about strong
+{
+	font-family: 'Lobster', cursive;
+	font-size:150%;
+
+}
+.Me img
+{
+	border: solid #ffffff 11px;
+}
+.navbar1
+{
+	
+	background-color: #B38D97;
+}
+.navbar1 >.collapse >.navbar-nav >.nav-item >.nav-link
+{
+ color: #ffffff;
+ font-family: 'Leckerli One', cursive;
+font-size:150%;
+white-space:no-wrap;
+}
+.whatIcanDo
+{
+	padding: 4%;
+}
+.whatIcanDo h2
+{
+	color:#4e4e4e ;
+	font-size: 187%;
+   overflow: hidden;
+  text-align: center;
+}
+.whatIcanDo div
+{
+	color: #B38D97;
+
+     text-align: center;
+     margin: 2%;
+	font-size: 110%;
+   overflow: hidden;
+   
+}
+.box
+{
+	 border: solid black 2px;
+	 padding: 4%;
+}
+#certifications
+{
+	
+    background-color: #ffffff;
+
+    padding: 4%;
+    padding-top: 2%;
+    font-size: 120%;
+}
+#certifications p {
+    font-size: 120%;
+}
+#certifications a
+{
+color: #b98b82;
+font-size: 120%;
+text-decoration: none;
+line-height: 3;
+}
+#certifications img
+{
+    display: inline-block;
+    width: 41%;
+    height: 4%;
+}
+h1,h2
+{
+	text-align: center;
+	color: #4e4e4e;
+	padding: 2%;
+}
+#contact
+{
+	background: #b38d97;
+	padding: 4%;
+}
+.email
+{
+	
+	padding: 0% 4%;
+	font-size: 120%;
+}
+
